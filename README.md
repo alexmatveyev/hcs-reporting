@@ -101,3 +101,9 @@ Virtual Data Center, Hypervisor Sockets ......: 1
 High Availability, Physical Node .............: 0
 High Availability, Virtual Node ..............: 3
 ```
+
+## References
+
+<https://github.com/C-RH-C/crhc-cli>
+<https://github.com/C-RH-C/hcs-collector>
+<https://github.com/alexmatveyev/hcs-collector/tree/vdc-and-virt-who>
